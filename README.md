@@ -4,7 +4,7 @@
      python but not the master
 
 - 🌱 I’m currently learning ...
-     interactive media design and production
+     deep learning
 
 - 💞️ I’m looking to collaborate on ...
 
